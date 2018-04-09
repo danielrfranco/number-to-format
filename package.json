@@ -1,26 +1,25 @@
 {
-  "name": "number-to-format",
+  "name": "number-to-money",
   "version": "1.0.0",
-  "description": "A simple package to convert a number to money format (#,###.##)",
+  "description": "A simple package in JS to convert a number to money format (#,###.##)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielrfranco/number-to-format.git"
+    "url": "git+https://github.com/danielrfranco/number-to-money.git"
   },
   "keywords": [
+    "money",
     "number",
     "format",
-    "money",
-    "coin",
     "currency"
   ],
   "author": "Daniel Franco",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielrfranco/number-to-format/issues"
+    "url": "https://github.com/danielrfranco/number-to-money/issues"
   },
-  "homepage": "https://github.com/danielrfranco/number-to-format#readme"
+  "homepage": "https://github.com/danielrfranco/number-to-money#readme"
 }
