@@ -1,3 +1,3 @@
-module.exports = function toMoney(amount: number) {
+exports.toMoney = function(amount: number) {
   return amount.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,');
 }
