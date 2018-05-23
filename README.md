@@ -4,7 +4,7 @@
 
 A lightweight and simple plugin to convert number to money format.
 
-## Instalation
+## Installation
 
 `npm install number-to-money`
 
