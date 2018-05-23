@@ -1,3 +1,7 @@
+# number-to-money
+ [![Version](https://img.shields.io/npm/v/number-to-money.svg)](https://www.npmjs.com/package/number-to-money)
+ [![License](https://img.shields.io/npm/l/number-to-money.svg)](https://www.npmjs.com/package/number-to-money)
+
 A lightweight and simple plugin to convert number to money format.
 
 ## Instalation
@@ -26,3 +30,8 @@ console.log(moneyFormat);
 ##### Output
 
 `3,000,000.30`
+
+## Donations
+Donations are **greatly appreciated!**
+
+**[BUY ME A COFFEE](https://goo.gl/FPMhV3)**
