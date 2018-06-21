@@ -8,11 +8,6 @@ A lightweight and simple plugin to convert number to money format.
 
 `npm install number-to-money`
 
-or
-
-`yarn add number-to-money`
-
-
 ## Usage
 ### Javascript
 Simply use `toMoney` function to convert any number to money format. You'll need to add manually the currency. This plugin will add it automatically in future releases.
@@ -34,4 +29,4 @@ console.log(moneyFormat);
 ## Donations
 Donations are **greatly appreciated!**
 
-**[BUY ME A COFFEE](https://goo.gl/FPMhV3)**
+**[BUY ME A COFFEE](https://www.paypal.me/DanielRFranco)**
