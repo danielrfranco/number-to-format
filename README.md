@@ -1,6 +1,7 @@
 # number-to-money
  [![Version](https://img.shields.io/npm/v/number-to-money.svg)](https://www.npmjs.com/package/number-to-money)
- [![License](https://img.shields.io/npm/l/number-to-money.svg)](https://www.npmjs.com/package/number-to-money)
+ [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/danielrfranco/number-to-money/blob/master/LICENSE)
+
 
 A lightweight and simple plugin to convert number to money format.
 
